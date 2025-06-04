@@ -3,6 +3,8 @@
 ## Description  
 A MATLAB application for visualizing global COVID-19 case and death data from Johns Hopkins University. The tool features interactive GUI components for exploring pandemic trends across countries and regions, with customizable plotting options for cumulative/daily views and data averaging.
 
+![Project Diagram](Dashboard.png)
+
 ## Key Features  
 - **Interactive GUI**:  
   - Dual listboxes for country/region selection (automatically updates when "Global" or countries with subregions are selected)  
